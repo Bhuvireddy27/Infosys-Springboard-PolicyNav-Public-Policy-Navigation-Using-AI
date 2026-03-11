@@ -120,3 +120,12 @@ Steps to Run the Application (Google Colab)
 
 Step 1: Install Dependencies
 !pip install streamlit pyjwt bcrypt python-dotenv pyngrok -q
+
+SCREENSHOTS:
+<img width="2560" height="1415" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/0419746d-3ed4-4fb1-aead-e0342c8eb838" />
+<img width="2560" height="1444" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/15a80c46-6d02-4e52-8be0-4b65ef3d60ce" />
+<img width="2560" height="1423" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/40706470-c8c0-4108-8eca-c0aafd5cfe92" />
+<img width="2560" height="1398" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/ca3eb4a5-f124-41a0-8e78-c31647fb27d8" />
+<img width="2560" height="1416" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/8ad9ab57-52db-4ab8-b4a9-bbe73ae29fb8" />
+<img width="2560" height="1407" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/66a80df9-449c-49ca-96de-8d871f8a2585" />
+<img width="2560" height="1406" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/4a5eb818-94f9-46f3-a7f3-c4e6d57d160d" />
