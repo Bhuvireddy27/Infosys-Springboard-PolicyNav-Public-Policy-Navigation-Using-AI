@@ -1,6 +1,5 @@
 # Infosys Springboard
-# 🧠 PolicyNav 
-Public-Policy-Navigation-Using-AI
+# 🧠 PolicyNav - Public-Policy-Navigation-Using-AI
 AI-Powered Public Policy Navigation and Intelligence Platform
 Simplifying complex government policies through multilingual AI, summarization, and intelligent search.
 # 🔗 Links: 
