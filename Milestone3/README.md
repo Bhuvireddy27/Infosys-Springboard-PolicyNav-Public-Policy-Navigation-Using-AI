@@ -170,18 +170,4 @@ Milestone 3 successfully implements an AI-powered multilingual Q&A system with:
 
 The system improves information retrieval, knowledge representation, and user interaction, while maintaining integration with authentication, dashboards, and enhanced UI/UX.
 
-OUTPUTS:
-
-AI POLICY ASSISTANT :
-
-AI POLICY SUMMARIZER:
-
-ENTITY KNOWLEDGE GRAPH :
-
-GLOBAL WEB SEARCH :
-
-LANGUAGE TRANSLATOR :
-
-ACTIVITY HISTORY :
-
-FEEDBACK:
+OUTPUTS: Attached in the folder.
