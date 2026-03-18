@@ -53,6 +53,7 @@ User Features:
 | Profile Management     | Avatar, email update, password change      |
 | Activity History       | Track user interactions                    |
 | Feedback System        | Ratings and comments                       |
+
 Admin Features:
 Manage users (view, delete, block)
 Monitor feedback and ratings
